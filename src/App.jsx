@@ -3,7 +3,7 @@ import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import {CssBaseline} from '@mui/material'
 import HomeMenu from './views/HomeMenu'
-import CalculateNumber from './views/CaculateNumber'
+import CalculateNumber from './views/CalculateNumber'
 import CalculateMoneyShare from './views/CalucalteMoneyShare'
 
 
